@@ -6,8 +6,24 @@ https://www.bilibili.com/video/BV1Wu411B72F?p=1
 如失效私信我补上，dos压缩包、所有ppt以及高级部分视频 都在文件夹中，认真找。
 备用链接：https://pan.baidu.com/s/1X-MgqOLrk9bxGi66_CHREQ 提取码:link
 
+《汇编语言课后习题》：
+https://blog.csdn.net/yangzijiangac/article/details/114376550
+
+《汇编语言》书本阅读进度：
+第1章看完——23-03-05
+第2.1-2.8节看完——23-03-05
+
+
 视频时长15.5小时，共79集。视频质量很高，感觉先学一下汇编语言，对自己学计算机组成原理会有帮助。
+
+挂载命令：
+mount c d:\MASM
+c:
+
+debug命令：
+在c盘下，先输入debug,下一行再输入r或d即可。
 
 第1-5集看完——23-02-27
 第6-8集看完——23-02-28
 第9-10集看完——23-03-02
+第11-12集看完——23-03-05
