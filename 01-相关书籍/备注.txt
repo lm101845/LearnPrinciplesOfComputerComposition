@@ -5,3 +5,6 @@
 
 计算机组成原理第二版(唐硕飞)课后习题答案：
 https://mp.weixin.qq.com/s?__biz=Mzk0NzMyNDg0Mg==&mid=2247484297&idx=6&sn=ce76dee28281d2bfba6c3d8b6458f123&chksm=c379d14cf40e585ace0ea085e94e81cff1235b71f2316ff920d6aa49a2cdf92e206dc96edd6d&scene=27
+
+《计算机组成与设计软硬件接口原书第5版》阅读进度：
+第1章看完——23-03-06
